@@ -1,2 +1,2 @@
 # cuhk
-cuhk learning material and projects
+MDS6224 deep learning material and projects
